@@ -1,2 +1,2 @@
 # PISS-21-G7
-Grupo de trabajo 7 de PLANIFICACIÓN E INTEGRACIÓN DE SISTEMAS Y SERVICIO
+Grupo de trabajo 7 de Planificación e Integración de Sistemas y Servicio
